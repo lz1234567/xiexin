@@ -1,0 +1,8 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "w-picker": "/components/w-picker/w-picker",
+    "range-date-pick": "/components/range-dtpicker/range-dtpicker"
+  }
+}
